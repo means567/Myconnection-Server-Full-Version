@@ -236,3 +236,6 @@ This repository serves as the official landing page for MyConnection Server. The
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of MyConnection Server today!**
+
+---
+**Last updated:** 2026-09-11 14:39:31 UTC
